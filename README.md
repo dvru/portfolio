@@ -1,3 +1,3 @@
-# Damini Vers Portfolio
+# Damini Varu's Portfolio
 
 coming soon...^_^
