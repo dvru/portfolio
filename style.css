@@ -1,6 +1,6 @@
  
  :root {
-  --mainColor: #d0dfe0;
+  --mainColor: black;
 }
 
 html {
@@ -14,7 +14,6 @@ html {
   font-size: 1rem;
   line-height: 175%;
   font-weight: 700;
-  color: #13acbd;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
@@ -61,7 +60,7 @@ html {
 }
 
 .project-link:hover {
-  box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 10px 10px -10px rgba(218, 214, 214, 0.5);
   -webkit-transform: translateY(-5px);
   transform: translateY(-5px);
 }
