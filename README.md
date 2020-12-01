@@ -1,3 +1,3 @@
 # Damini Varu's Portfolio
 
-Coming soon....^_^
+Coming Soon....^_^
