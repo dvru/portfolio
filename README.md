@@ -1,3 +1,3 @@
 # Damini Varu's Portfolio
 
-Coming Soon....^_^
+[!Live here](https://dvru.github.io/portfolio/)
