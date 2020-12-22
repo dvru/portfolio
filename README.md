@@ -3,7 +3,6 @@
 - Here is my final developer portfolio (digital designs...coming soon!)
 - I believe simple is more and wanted to showcase my current city Houston, TX, as well as my work. Enjoy and Let's Connect!   ^_^
 
-
 ## Links
 - [LIVE](https://dvru.github.io/portfolio/)
 
